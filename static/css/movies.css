@@ -1,0 +1,18 @@
+body{
+  background: url(https://images.unsplash.com/photo-1582564325802-2a3cc236ba3f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:yellow;
+  background-size: cover;
+}
+ul{
+  font-size: 20px;
+  color:solid solid blue;
+  text-align: left;
+}
+h1
+{
+  text-align: center;
+  color: yellow;
+  border: 10px;
+}
